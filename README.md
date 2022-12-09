@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm beginner developer
-I try to use the knowledge I have acquired in practice
+I'm beginner developer<br>
+I try to use the knowledge I have acquired in practice<br>
 Very inspired and passionate about writing code
 
 
