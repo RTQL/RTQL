@@ -1,7 +1,16 @@
 ### Hi there 👋
 I'm beginner developer<br>
 I try to use the knowledge I have acquired in practice<br>
-Very inspired and passionate about writing code
+Very inspired and passionate about writing code<br>
+<br>
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=for-the-badge&logo=Bootstrap)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
+
 
 <p align="left">
   <a href="http://www.github.com/rtql"><img src="https://github-readme-stats.vercel.app/api?username=rtql&show_icons=true&hide=&count_private=true&title_color=000&text_color=000&icon_color=000&bg_color=fff&hide_border=true&show_icons=true" alt="rtql's GitHub stats" width="420px">
@@ -11,7 +20,7 @@ Very inspired and passionate about writing code
 
 ---
 
-<p><a href="https://github.com/rtql" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtql&layout=compact&theme=swift )
 <!--
 **RTQL/RTQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
