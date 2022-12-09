@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm beginner developer
+I try to use the knowledge I have acquired in practice
+Very inspired and passionate about writing code
+
 
 <!--
 **RTQL/RTQL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
