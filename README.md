@@ -1,6 +1,4 @@
 ### Hi there 👋
-I'm beginner developer<br>
-I try to use the knowledge I have acquired in practice<br>
 Very inspired and passionate about writing code<br>
 <br>
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&color=fff&logo=Python)
