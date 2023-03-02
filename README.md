@@ -15,7 +15,7 @@ Very inspired and passionate about writing code<br>
   <a href="http://www.github.com/rtql"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rtql&stroke=000&background=white&ring=000&fire=000&currStreakNum=000&currStreakLabel=000&sideNums=000&sideLabels=000&dates=000&hide_border=true" width="420px">
   </a>
 </p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtql)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rtql&layout=compact&title_color=000&text_color=000&icon_color=000&bg_color=fff&hide_border=true)
