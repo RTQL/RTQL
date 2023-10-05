@@ -1,7 +1,7 @@
 ### Hi there 👋
 Very inspired and passionate about writing code<br>
 <br>
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&color=fff&logo=Python)
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&color=fff&logo=Php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&color=fff&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&color=fff&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&color=fff&logo=css3&logoColor=blue)
